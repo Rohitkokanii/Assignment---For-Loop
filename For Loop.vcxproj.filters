@@ -39,5 +39,26 @@
     <ClCompile Include="Q3_4.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Q3_5.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Q3_6.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Q3_7.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Q4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Q5.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Q6.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Q7.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
