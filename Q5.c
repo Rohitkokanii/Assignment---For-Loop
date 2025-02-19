@@ -13,13 +13,14 @@ int main() {
 
 	for (int i = num-1; i >= 1; i--) {
 		fact = fact * i;
+		if (fact < 0) {
+			printf("\nOverflow\n");
+			break;
+		}
 	}
 	
 
-	if (fact <= 0) {
-		printf("\nOverflow\n");
-	}
-	else {
+	if(fact>0){
 		printf("\nFactorial is = %d\n", fact);
 	}
 

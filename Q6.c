@@ -53,14 +53,14 @@ int main() {
 	}
 	//every 4th character
 	printf("\n\n==============================================================\n\n");
-
-	for (int i = 65; i <= 90; i+=3) {
+	printf("\nprint 4th char \n\n");
+	for (int i = 65; i <= 90; i++) {
 		printf(" %c ", i);
 	}
 
 	printf("\n\n==============================================================\n\n");
 
-	for (int i = 97; i <= 122; i+=3) {
+	for (int i = 97; i <= 122; i++) {
 		printf(" %c ",i);
 	}
 
